@@ -1,0 +1,50 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime caches and dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.sites-runtime/
+09_PORTFOLIO_WEB/.sites-runtime/
+
+# Build and test caches
+.next/
+.nuxt/
+.parcel-cache/
+.turbo/
+coverage/
+
+# Logs and temporary archives
+*.log
+*.tmp
+*.temp
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Project working files and local QA artifacts
+work/
+09_PORTFOLIO_WEB/preview-server.cjs
+
+# Nested repository metadata must never be committed
+09_PORTFOLIO_WEB/.git/
