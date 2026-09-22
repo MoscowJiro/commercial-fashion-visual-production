@@ -1,6 +1,6 @@
 # Commercial Fashion Visual Production Case Study — PAGE PLAN
 
-**目标岗位：** 商品视觉制作（AI修图 / AIGC方向）  
+商品视觉制作
 **页数：** 15 页  
 **叙事重点：** 商品真实性、生产判断与 QC 能力，不把生成数量包装成成果  
 **状态：** `PLAN ONLY — AWAITING CONFIRMATION`
